@@ -239,5 +239,7 @@ Once completed, the application displays a victory message along with the total 
 
 # Author
 
-Console implementation of the classic **Klondike Solitaire** game written in Python.
+Created by **Adam Buczek** | **Adix Labs**
+
+https://github.com/adixlabs
 
